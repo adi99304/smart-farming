@@ -1,5 +1,7 @@
 # smart-farming using Iot
 code for arduino ide:-
+
+
 #include <DHT.h>
 #include <LiquidCrystal.h>
 
